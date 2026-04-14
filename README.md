@@ -29,4 +29,5 @@ A developer who loves exploring new technologies.
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 #### Libraries
+![OpenCV](https://img.shields.io/badge/Pandas-FF7F00?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
