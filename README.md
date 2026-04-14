@@ -1,4 +1,4 @@
-## Hi, I'm Junyoung Song 👋
+## Hi, I'm JunYoung Song 👋
 
 Backend developer with 6 years of experience in trade & logistics,  
 now building systems that automate the inefficiencies I once solved by hand.
