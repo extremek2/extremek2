@@ -1,4 +1,4 @@
-## Hi, I'm Junyoung Song 👋
+## Hi, I'm JunYoung Song 👋
 
 > *"Grow through what you go through."*
 
