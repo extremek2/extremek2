@@ -35,7 +35,3 @@ now building systems that automate the inefficiencies I once solved by hand.
 | AI Eye Health Service | Cataract self-diagnosis web service | Python, Flask, MySQL, UIPath |
 
 ---
-
-### 📜 Certifications
-- 정보처리기사
-- SQL Developer (SQLD)
